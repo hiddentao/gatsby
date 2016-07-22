@@ -29,7 +29,6 @@ node_modules
 examples/biz-website/public/
 examples/blog/public/
 *.un~
-dist
 bin/published.js
 
 # Build Path of Test Fixtures
